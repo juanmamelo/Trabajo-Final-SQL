@@ -1,0 +1,1001 @@
+id_juego,titulo,desarrollador,fecha_lanzamiento,id_genero,acceso_anticipado,precio
+1,Toughjoyfax,Hahn-Swift,2022-07-16,2,1,37.50
+2,Voltsillam,Conroy-Hartmann,2017-02-21,1,1,58.99
+3,Opela,D'Amore Inc,2015-05-01,2,1,17.35
+4,Zamit,Hessel-Kuvalis,2016-09-15,3,1,8.49
+5,Alpha,Ondricka-Nienow,2019-09-18,4,1,39.84
+6,Andalax,Sauer Inc,2013-03-10,3,0,37.81
+7,Cardify,Kertzmann-Thompson,2016-08-21,2,0,30.34
+8,Subin,Beer LLC,2016-07-28,6,1,3.79
+9,Alpha,Borer-O'Kon,2021-05-13,6,0,49.22
+10,Ventosanzap,Padberg-Hickle,2010-01-09,4,0,20.28
+11,Tampflex,"Harris, Bartell and Hilll",2020-08-07,3,1,20.56
+12,Ronstring,Skiles Inc,2009-09-25,1,1,33.06
+13,Cardguard,Jakubowski-Botsford,2018-09-11,1,1,48.81
+14,Domainer,"Hudson, Lueilwitz and Stiedemann",2016-02-20,2,0,5.39
+15,Tin,"Brekke, Carter and Franecki",2015-09-25,2,1,60.87
+16,Voltsillam,"Kertzmann, Ebert and Bode",2021-12-26,6,0,9.33
+17,Mat Lam Tam,Leuschke-Harber,2017-10-03,2,1,43.61
+18,Prodder,Klocko Inc,2019-12-19,3,0,65.64
+19,Sonsing,Murphy and Sons,2022-12-04,8,0,58.02
+20,Bamity,Feest Inc,2014-04-29,3,1,62.99
+21,Biodex,Rempel-Konopelski,2024-07-17,3,1,62.97
+22,Voyatouch,Graham Inc,2009-06-27,3,0,19.97
+23,Tin,Trantow Inc,2017-01-05,2,1,27.62
+24,Regrant,Nienow and Sons,2015-05-12,4,1,46.51
+25,Kanlam,Jacobs-Purdy,2010-09-04,2,0,60.18
+26,Home Ing,Wolff LLC,2018-10-03,1,0,53.82
+27,Andalax,Abshire-Konopelski,2022-10-04,6,1,44.88
+28,Redhold,Bradtke-Emard,2021-03-29,1,1,64.46
+29,Ventosanzap,Leffler-Runolfsson,2012-10-22,3,0,58.36
+30,Namfix,Rogahn Group,2008-10-24,2,0,15.53
+31,Zontrax,Von and Sons,2022-11-01,6,1,51.69
+32,Tin,Huels-Little,2019-05-18,6,1,62.67
+33,Konklux,Runte Group,2018-04-29,3,0,13.27
+34,Gembucket,"Baumbach, Feeney and Homenick",2011-01-17,2,1,14.12
+35,Voyatouch,Kuvalis LLC,2018-09-06,2,1,32.32
+36,Vagram,Rice Group,2024-01-03,3,1,65.04
+37,Fix San,"Harvey, Cormier and Schumm",2015-01-25,1,0,3.56
+38,Latlux,Grimes-Schiller,2008-08-06,3,1,62.21
+39,Namfix,"Leffler, Gerlach and Sawayn",2012-02-18,6,0,9.66
+40,Zontrax,"Moore, Wilkinson and Ferry",2017-01-31,3,1,54.05
+41,Bitwolf,Schamberger Group,2021-01-05,3,0,32.59
+42,Ronstring,Ankunding Group,2016-10-02,6,1,9.44
+43,Opela,Wisozk-Hettinger,2020-11-01,1,1,35.94
+44,Zaam-Dox,Kautzer-Connelly,2018-03-24,5,1,41.45
+45,Stringtough,Braun-Bogisich,2024-04-12,1,0,12.95
+46,Kanlam,"Mueller, Wiegand and Schroeder",2013-04-12,1,0,65.53
+47,Toughjoyfax,"Bruen, Hansen and Hansen",2015-03-01,6,0,16.82
+48,Konklab,Rolfson Inc,2009-07-17,1,0,18.31
+49,Toughjoyfax,Marvin-McGlynn,2014-08-13,5,1,23.63
+50,Ronstring,Kihn-Rempel,2024-07-27,3,1,59.02
+51,Zontrax,"Toy, Daniel and Friesen",2020-02-03,3,0,39.31
+52,Domainer,"Windler, Windler and Hodkiewicz",2015-07-27,4,0,62.65
+53,Ventosanzap,Funk-Legros,2024-05-03,2,0,64.82
+54,Bamity,Muller-Sporer,2021-12-08,3,1,10.70
+55,Lotstring,Murazik-Towne,2011-04-10,2,0,67.01
+56,Redhold,Keebler-Schinner,2022-04-03,3,1,29.97
+57,Rank,"Swaniawski, Kihn and Schiller",2019-03-09,3,1,29.53
+58,Quo Lux,"Block, Monahan and Lubowitz",2021-03-24,4,1,20.24
+59,Opela,Kling-Welch,2017-04-15,2,0,21.80
+60,Alpha,"Schuster, Braun and Reinger",2018-02-09,1,1,9.35
+61,Latlux,Connelly-Walker,2018-09-05,5,1,26.06
+62,Tresom,Parisian LLC,2011-09-05,2,1,56.84
+63,Bigtax,Ziemann-Wehner,2019-05-21,3,1,10.58
+64,Fixflex,Vandervort Inc,2019-01-03,1,1,20.45
+65,Cookley,Hagenes LLC,2017-07-10,3,1,64.78
+66,Kanlam,Batz-Wisozk,2009-08-28,1,0,42.08
+67,Andalax,Hagenes Inc,2023-12-17,2,1,5.08
+68,Voltsillam,"Sipes, Goodwin and Padberg",2015-04-25,1,1,22.24
+69,Lotlux,"Nader, Miller and Leffler",2020-03-07,2,0,49.69
+70,Cardguard,Lynch-Hoeger,2017-05-23,4,1,30.76
+71,Span,Thiel-Bayer,2021-07-27,2,0,14.15
+72,Pannier,Schaefer-Beier,2024-04-15,4,1,39.60
+73,Voyatouch,Kemmer-Wilkinson,2015-04-03,1,1,58.10
+74,Viva,Cormier-Moore,2011-06-10,5,1,12.29
+75,Zamit,"Purdy, Abshire and VonRueden",2022-01-12,3,1,11.32
+76,Home Ing,"Turcotte, Bogan and Lind",2009-05-11,1,0,62.80
+77,Pannier,Balistreri-Sawayn,2016-01-08,2,1,30.31
+78,Cardguard,"Boyer, Brakus and Reichert",2012-09-29,5,1,63.18
+79,Kanlam,Erdman Group,2018-01-12,3,0,44.56
+80,Gembucket,Boyle-Jaskolski,2010-01-30,6,0,10.91
+81,Home Ing,Gislason-Feest,2016-11-29,1,0,8.29
+82,Biodex,"Orn, Gulgowski and Spinka",2017-03-09,4,0,53.20
+83,Y-find,"Lind, Mertz and McGlynn",2019-09-08,3,1,29.86
+84,Rank,Cassin-Walsh,2020-09-23,2,0,30.23
+85,Voyatouch,Orn Inc,2010-11-03,2,0,7.52
+86,Tin,"Cassin, Williamson and Leannon",2008-11-29,3,1,37.02
+87,Lotstring,O'Conner-Gibson,2023-12-19,4,0,47.60
+88,Quo Lux,O'Hara and Sons,2011-07-07,1,1,31.14
+89,Prodder,"Frami, Dach and Mertz",2019-12-28,3,0,31.12
+90,Alpha,"Sporer, Jerde and Christiansen",2019-01-21,5,1,66.81
+91,Duobam,Zemlak-Ebert,2016-11-15,3,0,22.66
+92,Transcof,Price-Bogan,2014-07-17,3,1,69.75
+93,Pannier,"Torp, Dach and Halvorson",2021-04-12,2,1,54.36
+94,Viva,"Bayer, Dach and Cruickshank",2010-08-27,3,1,6.00
+95,Cardify,"Reinger, Balistreri and Gutmann",2022-12-14,3,1,66.66
+96,Trippledex,Quitzon Group,2021-05-12,2,1,36.21
+97,It,"Reynolds, Thompson and Considine",2020-12-26,3,0,7.95
+98,Toughjoyfax,"Considine, Bayer and Zboncak",2013-07-31,5,1,67.16
+99,Veribet,Parker LLC,2016-10-28,2,1,25.69
+100,Bitwolf,Becker and Sons,2013-10-27,3,1,32.27
+101,Fix San,Cruickshank-Dare,2013-11-30,6,0,4.79
+102,Bitchip,Walsh-Flatley,2022-03-21,3,1,69.64
+103,Pannier,"Bartoletti, Hermiston and Casper",2021-08-08,3,1,48.09
+104,Duobam,Hessel-Block,2016-03-27,1,0,5.42
+105,Flowdesk,Lowe Inc,2011-11-03,3,1,27.53
+106,Flowdesk,"King, Greenfelder and Ortiz",2017-01-06,4,1,61.90
+107,Solarbreeze,Auer-Goyette,2021-01-20,3,1,34.49
+108,Sub-Ex,Steuber-Von,2021-10-02,2,1,39.14
+109,Fintone,"Nolan, Koelpin and Bogan",2023-12-27,1,0,25.83
+110,Voyatouch,Koepp-Pagac,2023-03-07,6,0,34.83
+111,Opela,"Christiansen, Hessel and Satterfield",2022-01-28,6,0,48.00
+112,Sonair,Jacobs-Johnston,2016-01-19,4,1,37.94
+113,Span,"Borer, Kuphal and Ryan",2018-08-17,5,1,63.09
+114,Voltsillam,Hudson and Sons,2022-10-23,6,0,24.25
+115,Konklab,Koch LLC,2024-08-04,1,1,38.66
+116,Tresom,Schumm LLC,2013-07-28,4,0,47.06
+117,Andalax,"Wiegand, Pacocha and Schmeler",2019-04-23,6,1,28.57
+118,Cardify,Kshlerin-Cole,2011-01-14,2,0,25.82
+119,Zontrax,"Nicolas, Kulas and Kuvalis",2020-01-08,2,0,56.40
+120,Alphazap,Thompson-Morar,2011-12-18,3,0,63.23
+121,Alphazap,Nader and Sons,2019-02-24,5,0,24.23
+122,Bigtax,Johnson and Sons,2010-08-06,6,0,49.10
+123,Fix San,Sauer-Walker,2012-08-11,5,1,62.78
+124,Alpha,Stanton Group,2010-10-12,1,1,21.36
+125,Zaam-Dox,"Adams, Gottlieb and Gleason",2010-08-01,1,1,11.45
+126,Lotlux,"Hane, Adams and McClure",2023-04-30,4,1,38.55
+127,Mat Lam Tam,"McLaughlin, Balistreri and Hegmann",2011-03-22,4,1,48.20
+128,Lotlux,"Goodwin, Krajcik and Roob",2019-12-22,2,0,4.96
+129,Cardguard,"Mitchell, Gutmann and Tillman",2014-07-24,2,0,43.41
+130,Lotstring,Gibson-Wiegand,2014-12-02,2,1,8.37
+131,Sonair,Kessler and Sons,2021-08-16,4,0,69.84
+132,Temp,"Schoen, Ratke and Lehner",2019-05-09,4,0,24.89
+133,Bitchip,Abshire-Hoppe,2022-06-13,3,1,27.47
+134,Y-find,Russel LLC,2023-11-07,3,0,67.14
+135,Aerified,"Funk, Crooks and Zieme",2016-01-26,6,0,7.00
+136,Daltfresh,"Klein, Stamm and Murray",2017-07-27,7,1,46.27
+137,Bitchip,Smith-Wunsch,2009-10-18,1,1,11.01
+138,Solarbreeze,Hintz LLC,2022-03-15,1,1,39.97
+139,Stringtough,"Durgan, Mertz and Haag",2023-06-15,3,0,31.80
+140,Domainer,"Willms, Bosco and Collins",2024-06-10,2,0,34.95
+141,Prodder,"Lemke, Conn and Swaniawski",2023-08-15,2,1,61.74
+142,Voltsillam,Hackett-Jones,2016-11-09,6,1,19.21
+143,Tin,Cormier-Hayes,2023-05-06,1,1,63.22
+144,Zaam-Dox,"Walsh, Rogahn and Tromp",2018-06-01,2,1,69.73
+145,Greenlam,"Towne, Treutel and Dare",2008-11-02,7,0,41.99
+146,Rank,"McDermott, Emard and Jenkins",2011-12-26,3,1,49.75
+147,Vagram,Hackett LLC,2010-12-16,1,0,23.70
+148,Rank,"Stehr, Conroy and Reynolds",2018-08-13,2,0,21.08
+149,Voyatouch,Frami-Legros,2013-10-25,1,1,2.77
+150,Subin,Brekke-Reinger,2021-11-30,3,0,39.96
+151,Ronstring,"White, Haley and Labadie",2009-02-17,2,0,45.81
+152,Quo Lux,Lubowitz and Sons,2015-10-04,1,1,7.01
+153,Span,"Turcotte, Schroeder and Gulgowski",2018-02-18,4,0,64.69
+154,Sub-Ex,Ebert Group,2010-01-10,2,1,64.54
+155,Tres-Zap,D'Amore-Lehner,2016-02-08,2,1,39.64
+156,Aerified,Powlowski-Orn,2010-01-05,2,0,65.69
+157,Holdlamis,Reinger LLC,2023-12-21,1,0,68.90
+158,Alphazap,Aufderhar-Oberbrunner,2011-03-27,3,1,8.23
+159,Lotstring,Mayer Inc,2020-07-26,4,1,53.55
+160,Kanlam,"Stroman, Osinski and Doyle",2013-11-29,2,1,21.37
+161,Zathin,"Frami, Turcotte and Marvin",2014-02-22,2,0,12.58
+162,Daltfresh,"Wehner, Von and Bashirian",2013-07-27,1,0,8.37
+163,Fix San,Boyle-Cole,2018-08-23,6,0,23.93
+164,Vagram,Oberbrunner LLC,2022-03-14,1,1,38.75
+165,Flowdesk,"Cummings, Murray and Sauer",2016-04-23,2,1,36.93
+166,Lotstring,Kuhn Inc,2010-02-05,1,0,68.78
+167,Bitwolf,"McCullough, Terry and Thompson",2022-02-04,1,0,62.04
+168,Opela,Simonis Inc,2022-01-28,1,0,21.55
+169,Bytecard,Stehr Inc,2019-05-17,3,0,64.75
+170,Cardify,Runte Inc,2023-10-12,2,0,45.41
+171,Keylex,"Cole, Zemlak and Hermann",2014-10-14,5,0,23.18
+172,Mat Lam Tam,Herman-Funk,2016-04-02,1,0,1.36
+173,Home Ing,Schinner-Sanford,2014-03-26,1,0,43.90
+174,Namfix,Balistreri LLC,2015-10-29,3,0,63.25
+175,Tin,Ullrich-Beahan,2013-06-23,3,0,31.17
+176,Zathin,Hauck-Bergnaum,2008-11-16,2,0,58.78
+177,Mat Lam Tam,Balistreri Group,2022-12-04,2,0,41.03
+178,Pannier,Von and Sons,2015-08-09,1,0,51.52
+179,Bitwolf,Howell Group,2020-01-23,3,1,60.50
+180,Otcom,Schmeler LLC,2008-07-11,3,1,34.81
+181,Bitwolf,"Halvorson, Rolfson and Considine",2013-03-30,1,1,60.36
+182,Domainer,"Runolfsdottir, Gleason and Cormier",2020-11-12,2,1,22.54
+183,Wrapsafe,Klocko Inc,2015-04-14,3,1,63.04
+184,Treeflex,"Halvorson, Pfeffer and Brekke",2010-03-27,5,0,0.05
+185,Greenlam,"McDermott, Bernier and Nicolas",2023-08-07,1,0,52.42
+186,Rank,"Emard, Lakin and Kovacek",2013-09-03,6,0,63.42
+187,Mat Lam Tam,Jones-Jacobson,2024-03-29,2,0,68.58
+188,Konklux,Yundt-Bechtelar,2013-05-16,4,0,4.23
+189,Temp,"Greenholt, Schneider and Bashirian",2023-06-03,2,1,64.63
+190,Konklux,Conn-Torp,2022-02-01,6,1,13.29
+191,Keylex,Wunsch Group,2022-05-31,2,0,45.50
+192,Alphazap,"Emmerich, Reynolds and Halvorson",2009-09-11,3,0,41.32
+193,Lotstring,"Weissnat, Rolfson and Fay",2014-06-12,2,0,53.08
+194,Konklux,Hettinger LLC,2013-02-10,4,0,67.08
+195,Transcof,Lesch-Kiehn,2019-09-01,3,1,8.17
+196,Tresom,Casper and Sons,2013-04-03,3,0,19.52
+197,Hatity,Raynor LLC,2012-05-19,1,1,64.71
+198,Lotstring,Reichel Inc,2016-10-15,6,1,6.40
+199,Bitwolf,"Kshlerin, Gerhold and Goldner",2010-07-02,3,1,38.04
+200,Ventosanzap,Dach-Treutel,2013-05-25,5,1,16.39
+201,Flowdesk,"Bashirian, Botsford and Breitenberg",2014-12-28,2,1,44.22
+202,Tresom,Walter-DuBuque,2014-08-09,6,1,23.20
+203,Daltfresh,Romaguera Group,2023-07-04,5,1,44.85
+204,Span,Hessel-Hilpert,2008-08-19,4,0,63.86
+205,Sonsing,"Price, Beer and Swaniawski",2009-01-10,4,0,32.77
+206,Trippledex,Ferry Group,2018-03-21,1,1,53.48
+207,Wrapsafe,"Kuhic, Conn and Ankunding",2015-02-01,4,1,31.91
+208,Konklux,Stamm-Hilpert,2010-09-06,3,0,40.29
+209,Otcom,"Hane, Stoltenberg and Ondricka",2019-03-31,2,0,40.60
+210,Stim,"Mueller, Quitzon and Reynolds",2022-12-30,5,0,1.49
+211,Tampflex,"Roob, Klocko and Ankunding",2019-10-25,2,1,57.35
+212,Temp,Sporer-Willms,2021-02-24,7,1,7.35
+213,Fintone,Kautzer Group,2019-01-20,6,0,40.60
+214,Otcom,"Larson, O'Hara and Mann",2009-07-23,1,0,1.30
+215,Voltsillam,Koch Inc,2016-03-24,1,0,3.20
+216,Biodex,Heaney-Hyatt,2020-02-07,7,1,1.54
+217,Stronghold,Trantow-Ernser,2024-06-03,3,0,41.24
+218,Job,Carter Group,2016-02-17,6,1,15.42
+219,Zaam-Dox,Nolan and Sons,2016-05-24,4,1,30.22
+220,Stronghold,Lang-Predovic,2021-07-01,6,0,22.31
+221,Ronstring,Towne and Sons,2015-06-10,2,0,52.34
+222,Fixflex,Ortiz-Lindgren,2012-12-15,6,0,21.50
+223,Tampflex,Beahan and Sons,2020-04-02,3,1,56.02
+224,Holdlamis,Cummerata and Sons,2022-05-03,3,0,66.73
+225,Konklux,"Conroy, Prohaska and Bernhard",2021-10-20,2,0,23.63
+226,Zontrax,"Sporer, Upton and Skiles",2016-06-19,3,0,61.23
+227,Konklux,Gerlach-O'Keefe,2009-03-26,3,1,9.94
+228,Span,"Kris, Glover and Blanda",2020-06-24,2,0,46.16
+229,Job,Wiza-King,2017-11-13,2,1,43.75
+230,It,"Spencer, Stokes and Kihn",2023-03-19,3,0,48.61
+231,Bamity,"Murray, Buckridge and Feest",2011-10-18,1,0,49.39
+232,Stronghold,Simonis-Cremin,2008-12-01,5,0,59.25
+233,Opela,Kub-O'Connell,2021-12-02,6,1,51.39
+234,Stringtough,"Klocko, Christiansen and Morar",2018-08-10,4,1,27.43
+235,Tampflex,"Schmeler, Davis and Wilderman",2021-07-04,3,1,39.35
+236,Fixflex,Rath-Spinka,2023-08-30,6,1,63.27
+237,Hatity,Kohler-Gulgowski,2012-07-31,2,1,20.15
+238,Sonair,"White, Willms and Mertz",2024-01-21,4,0,21.29
+239,Y-Solowarm,"Reynolds, Berge and Bayer",2020-06-19,6,1,6.02
+240,Veribet,Hane-Rice,2016-06-08,4,1,36.97
+241,Namfix,"Powlowski, Stark and Waelchi",2019-08-02,6,1,28.28
+242,Kanlam,Grimes LLC,2008-09-06,3,1,58.93
+243,Sonsing,MacGyver-Heidenreich,2019-04-10,1,0,65.62
+244,Ronstring,Dickens LLC,2023-08-16,6,1,68.65
+245,Tresom,Cartwright-Bergnaum,2019-10-16,1,0,52.78
+246,Alpha,Konopelski-Brown,2019-10-14,6,1,33.02
+247,Alphazap,Koelpin-Cummerata,2020-06-16,2,1,64.15
+248,Tresom,Ratke and Sons,2019-12-18,1,1,1.83
+249,Toughjoyfax,Pacocha-Adams,2019-08-18,1,1,26.87
+250,Alpha,"Bogan, Jakubowski and Johns",2014-08-16,1,1,25.40
+251,Mat Lam Tam,"Okuneva, Boehm and Upton",2020-06-09,6,0,2.12
+252,Cardguard,"Ortiz, Corwin and Leffler",2022-06-19,2,1,32.10
+253,Ventosanzap,"Beier, Hammes and MacGyver",2019-10-08,1,0,4.62
+254,Tin,Fisher-Kuhlman,2015-06-05,3,0,17.63
+255,Prodder,Lakin and Sons,2020-03-02,2,1,53.54
+256,Daltfresh,Gleichner LLC,2010-07-22,3,1,59.91
+257,Vagram,Farrell and Sons,2012-01-08,6,0,42.37
+258,Sub-Ex,"Prosacco, Braun and Lynch",2015-06-29,1,0,39.85
+259,Bigtax,"Legros, Grady and Schowalter",2021-09-18,2,1,29.45
+260,Trippledex,"Parisian, Ritchie and Bahringer",2016-07-04,3,0,37.26
+261,Treeflex,"Kilback, Stroman and Hoeger",2015-11-12,3,1,57.12
+262,Kanlam,Schamberger-Ratke,2018-06-22,1,0,63.64
+263,Zamit,"Graham, Mitchell and Grant",2012-08-12,2,0,31.38
+264,Holdlamis,Koepp Inc,2024-04-14,4,0,60.02
+265,Regrant,"Gerlach, Lockman and Ward",2024-04-10,3,1,32.71
+266,It,Hermann-Jakubowski,2023-07-10,5,1,19.82
+267,Hatity,"Bechtelar, McGlynn and Heaney",2019-06-25,4,1,13.16
+268,Matsoft,Ullrich-Schinner,2022-05-08,2,1,50.04
+269,Fintone,"Schaefer, Baumbach and Casper",2011-09-23,7,0,28.82
+270,Prodder,Konopelski-Herman,2016-07-16,6,1,21.51
+271,Quo Lux,"Nicolas, Borer and Grimes",2021-12-06,4,0,56.02
+272,Home Ing,Jones-Kris,2024-01-30,1,1,22.75
+273,Vagram,"Nienow, Oberbrunner and Hoppe",2013-01-12,4,0,8.07
+274,Voltsillam,"Wilkinson, Ernser and Leuschke",2018-02-28,5,1,67.18
+275,Stronghold,"Williamson, Walsh and Weimann",2017-09-20,4,0,24.06
+276,Zathin,Anderson LLC,2017-12-25,2,0,11.61
+277,Span,"McLaughlin, O'Reilly and Rogahn",2018-07-15,1,1,62.43
+278,Sonsing,"Oberbrunner, Bradtke and Reynolds",2019-07-13,5,0,8.04
+279,Lotstring,Tillman-Beer,2022-06-24,1,1,64.68
+280,Sonsing,Simonis-Steuber,2018-04-09,3,1,16.19
+281,Fintone,"Koss, Deckow and O'Keefe",2010-09-29,2,0,2.67
+282,Regrant,Bartell-Reichel,2012-07-08,1,0,45.82
+283,Konklux,Gusikowski Group,2021-01-11,4,0,0.33
+284,Sub-Ex,Kshlerin Inc,2018-01-30,3,1,42.71
+285,It,Block and Sons,2023-12-27,1,1,4.85
+286,Regrant,Swift Inc,2010-08-18,2,0,61.30
+287,Span,Gerlach-Deckow,2017-10-04,8,1,23.64
+288,Subin,"Reynolds, Jast and Hackett",2016-01-31,5,0,64.97
+289,Toughjoyfax,"Lesch, Koelpin and Hayes",2023-10-22,1,0,16.58
+290,Sub-Ex,Gutmann Group,2024-06-08,6,0,17.35
+291,Cardify,Pagac-DuBuque,2021-01-19,2,0,69.78
+292,Vagram,Rohan Group,2020-06-01,4,1,56.94
+293,Zontrax,"Runolfsdottir, Batz and Abshire",2022-05-06,4,0,47.93
+294,Lotstring,Hyatt LLC,2017-05-03,1,0,32.79
+295,Opela,Hand Inc,2016-02-29,4,0,8.57
+296,Zontrax,Ryan Inc,2012-10-03,5,0,50.04
+297,Andalax,Tremblay LLC,2015-01-23,6,0,30.99
+298,Y-find,Lind LLC,2019-05-02,3,1,7.00
+299,Home Ing,"Paucek, Ritchie and Luettgen",2013-11-14,2,1,1.24
+300,Overhold,Kassulke-Parisian,2017-11-13,4,0,35.42
+301,Konklab,Murray-Mraz,2023-03-20,2,0,3.69
+302,Redhold,Lehner-Lind,2022-01-04,6,0,4.03
+303,Home Ing,Larson-Langosh,2022-07-11,4,1,25.95
+304,Zamit,"Hahn, Emmerich and Wiegand",2020-08-06,3,1,65.12
+305,Konklux,Kling Group,2024-05-05,6,0,6.75
+306,Regrant,Morissette-Schultz,2011-05-05,6,1,57.80
+307,Voyatouch,Upton-Wolf,2022-06-01,1,0,39.50
+308,Flexidy,Schowalter-Kohler,2020-05-27,6,0,6.62
+309,Toughjoyfax,Macejkovic LLC,2012-06-23,4,0,69.15
+310,Zamit,"Adams, Funk and Kutch",2019-07-15,3,1,32.36
+311,Voyatouch,Carroll and Sons,2018-08-28,5,0,5.26
+312,Y-find,"Vandervort, Schimmel and Gleichner",2017-04-01,1,0,53.94
+313,Rank,Bosco Inc,2020-04-28,4,1,17.64
+314,Tampflex,"Reichel, Glover and Leuschke",2009-08-18,2,1,33.52
+315,Flowdesk,"Crooks, Stracke and Olson",2021-12-22,6,0,42.53
+316,Sub-Ex,Kuhn Inc,2023-10-09,3,0,8.40
+317,Y-find,Wunsch Group,2021-03-08,3,1,33.34
+318,Otcom,Emard and Sons,2011-11-09,6,0,16.06
+319,Gembucket,"Ward, Kuvalis and Lakin",2018-11-06,2,0,13.85
+320,Bitwolf,"Green, Kunde and Koss",2020-05-05,2,1,29.66
+321,Sonair,"Gutkowski, Pfannerstill and Monahan",2016-12-01,1,1,37.65
+322,Tresom,Miller Group,2012-06-11,1,0,21.32
+323,Prodder,Medhurst Group,2012-02-28,2,0,38.76
+324,Gembucket,"Larson, Rohan and Gislason",2011-02-12,5,1,61.54
+325,Viva,"Barton, Von and Cartwright",2009-11-07,3,1,66.88
+326,Prodder,Flatley Inc,2013-07-12,1,1,39.70
+327,Trippledex,Toy-Krajcik,2021-09-06,1,1,22.58
+328,Sub-Ex,Kshlerin-Armstrong,2010-05-20,3,0,41.68
+329,Sub-Ex,Bechtelar-Rath,2019-04-01,1,1,24.44
+330,Y-Solowarm,"Bauch, Grant and Kozey",2012-03-09,2,0,61.23
+331,Namfix,Larkin and Sons,2010-08-28,6,0,46.87
+332,Tin,Sipes-Morar,2015-04-18,1,0,51.86
+333,Zontrax,Rutherford Inc,2013-01-04,6,0,62.90
+334,Fintone,"Bruen, Reinger and Dietrich",2020-02-10,7,1,18.45
+335,Voltsillam,"Boyle, Shields and Reynolds",2022-10-24,3,1,21.90
+336,Konklab,Ortiz Group,2009-03-06,3,1,6.41
+337,Bigtax,Collier Group,2017-11-05,3,0,2.85
+338,Mat Lam Tam,"Kirlin, Borer and Berge",2018-04-30,3,1,29.89
+339,Opela,Schinner-Schamberger,2011-09-03,7,1,65.85
+340,Ronstring,Spinka LLC,2011-03-02,2,0,14.79
+341,Subin,Abshire-Buckridge,2015-04-08,5,0,13.98
+342,Hatity,Mosciski-Waelchi,2019-12-24,5,1,30.66
+343,Stronghold,"Emard, Sauer and Bernier",2009-02-20,3,0,68.73
+344,Andalax,Lemke and Sons,2009-08-12,2,1,46.53
+345,Stronghold,Dickinson and Sons,2012-11-30,3,1,16.19
+346,Konklab,Streich Inc,2014-06-21,2,1,32.22
+347,Regrant,"Bernier, Abbott and Hodkiewicz",2010-06-13,1,0,11.92
+348,Konklux,MacGyver LLC,2013-01-07,3,1,18.79
+349,Subin,Rippin Group,2019-10-12,7,1,67.37
+350,Vagram,"Vandervort, Steuber and Quitzon",2013-12-08,1,1,21.99
+351,Flowdesk,"Swift, Huel and Crist",2010-01-12,2,0,15.69
+352,Vagram,Lakin and Sons,2019-10-24,3,0,4.53
+353,Sub-Ex,"Metz, Kuhn and Pollich",2011-08-12,3,0,43.14
+354,Toughjoyfax,Hansen-Langosh,2024-01-16,6,1,24.65
+355,Otcom,"Dooley, Monahan and Nitzsche",2024-04-29,1,1,55.55
+356,Konklux,Doyle-Lang,2024-03-02,6,1,3.45
+357,Tampflex,Feil-Bailey,2021-03-08,2,0,36.42
+358,Biodex,"Tremblay, Douglas and Torp",2016-06-16,3,1,2.61
+359,Redhold,Stamm Inc,2015-07-23,1,1,62.09
+360,Tresom,Boehm-Hilll,2009-01-05,2,1,51.27
+361,Wrapsafe,"Gulgowski, Cole and Nienow",2018-05-21,2,1,25.44
+362,Zathin,Johnson LLC,2020-12-19,5,0,25.16
+363,Y-Solowarm,Schmeler-Schoen,2023-04-14,2,1,31.50
+364,Home Ing,Reilly LLC,2009-07-02,5,0,16.06
+365,Tempsoft,Hintz-Reinger,2013-04-08,5,0,33.78
+366,Cookley,"Jakubowski, Torphy and Anderson",2022-09-07,2,0,34.47
+367,Konklux,Steuber-Hermann,2017-12-08,3,1,12.17
+368,Otcom,Okuneva Group,2009-10-05,2,1,49.02
+369,Flowdesk,"Herzog, Leannon and O'Conner",2021-11-07,1,0,51.74
+370,Bigtax,Turcotte-Labadie,2009-09-11,4,0,20.74
+371,Veribet,Stehr Inc,2021-02-23,4,0,37.68
+372,Zaam-Dox,Schroeder-Erdman,2011-04-24,3,0,51.16
+373,Duobam,Kozey-Lakin,2023-10-30,1,0,44.49
+374,Cookley,O'Hara-Gleason,2018-08-23,4,0,20.59
+375,Asoka,Donnelly-Lowe,2012-07-20,2,0,35.47
+376,Tresom,"Huel, Toy and Kemmer",2009-12-04,1,1,40.97
+377,Redhold,Towne-Kub,2017-12-04,7,0,0.52
+378,Sub-Ex,Schumm-Koepp,2011-12-25,3,1,67.73
+379,Ventosanzap,Reilly Group,2010-10-24,4,1,46.08
+380,Zoolab,"Hammes, Wisoky and Konopelski",2008-09-07,6,0,40.04
+381,Biodex,Fadel Inc,2016-04-05,4,1,40.10
+382,Quo Lux,Rodriguez and Sons,2022-10-13,1,0,16.67
+383,Job,"Schroeder, Beatty and Beier",2023-11-02,2,1,0.38
+384,Sonair,McLaughlin LLC,2011-12-30,3,0,22.84
+385,Ventosanzap,Hyatt and Sons,2022-07-11,6,1,34.67
+386,Pannier,Ryan Group,2008-09-05,3,0,49.83
+387,Subin,"Volkman, Wilkinson and Olson",2022-01-16,2,1,65.42
+388,Ronstring,D'Amore-Witting,2017-02-19,2,1,68.20
+389,Konklab,Halvorson-Zieme,2011-01-02,1,1,30.73
+390,Quo Lux,Balistreri and Sons,2010-12-30,3,0,53.52
+391,Mat Lam Tam,Anderson-Mohr,2010-08-03,2,1,62.69
+392,Tin,Lakin-Donnelly,2023-11-25,6,1,24.66
+393,Sonsing,Dicki-Jones,2018-06-27,2,1,44.57
+394,Subin,Weber-Reichel,2016-07-19,2,1,17.72
+395,Lotlux,Rogahn-Von,2010-09-02,5,0,19.72
+396,Toughjoyfax,Braun Inc,2010-03-09,6,0,22.69
+397,Gembucket,Lesch LLC,2011-02-27,1,0,57.76
+398,Gembucket,Kihn-Kreiger,2017-12-30,3,0,25.83
+399,Tres-Zap,Gusikowski-Willms,2009-04-24,3,1,43.17
+400,Latlux,Greenholt LLC,2018-03-15,3,0,61.70
+401,Opela,Bernier-Prosacco,2021-02-22,4,0,36.56
+402,Daltfresh,Huels LLC,2018-11-05,1,1,17.51
+403,Trippledex,"Block, Stroman and Rempel",2012-03-28,5,0,55.30
+404,Mat Lam Tam,Block Inc,2017-05-22,1,1,26.84
+405,Otcom,Medhurst-Muller,2008-09-26,2,1,46.43
+406,Mat Lam Tam,"Davis, Runolfsson and Sawayn",2009-07-03,4,1,8.22
+407,Flowdesk,"Mann, Schumm and Howe",2022-07-16,4,0,25.73
+408,Tempsoft,Carter LLC,2018-11-15,2,0,11.84
+409,Fixflex,"Kertzmann, Stanton and Morar",2011-12-30,1,1,32.73
+410,Namfix,"Runte, Lemke and Hills",2012-08-06,7,0,9.07
+411,Duobam,Bergnaum LLC,2019-04-08,5,0,39.63
+412,Zathin,Davis and Sons,2017-01-26,4,0,31.84
+413,Pannier,Cassin and Sons,2015-05-01,2,1,46.47
+414,Lotstring,"Brakus, Lemke and Lueilwitz",2008-07-08,1,0,47.91
+415,Matsoft,Tromp-Corwin,2022-05-06,3,0,16.10
+416,Stringtough,Rath-King,2021-05-29,2,0,16.54
+417,Tempsoft,O'Hara-Miller,2009-06-16,6,0,56.65
+418,Wrapsafe,Reichert-Borer,2023-01-21,1,1,35.93
+419,Zaam-Dox,Ortiz LLC,2011-06-11,1,0,64.27
+420,Duobam,"Greenfelder, Rohan and Nikolaus",2020-08-06,3,0,33.18
+421,Pannier,Ward and Sons,2021-10-28,3,1,42.50
+422,Voyatouch,Krajcik Inc,2009-08-30,1,1,57.43
+423,Lotstring,White and Sons,2011-12-19,6,1,35.12
+424,Job,Shields LLC,2016-07-15,2,0,28.34
+425,Toughjoyfax,Schulist-Goldner,2022-06-23,4,1,15.94
+426,Hatity,Wilkinson LLC,2018-10-02,3,0,61.25
+427,Flowdesk,"Cremin, Reichert and Spencer",2020-07-19,1,0,46.21
+428,Home Ing,O'Hara-Swift,2017-01-20,6,0,36.89
+429,Zontrax,Leuschke-Wisoky,2019-06-03,6,1,48.50
+430,Voltsillam,"Boyle, Rogahn and Hansen",2016-08-16,1,0,5.58
+431,Treeflex,Feest LLC,2024-01-13,2,0,23.95
+432,Subin,"Carroll, Bashirian and Schimmel",2016-05-09,2,1,10.34
+433,Tin,"Streich, Deckow and Hamill",2009-10-27,2,0,27.52
+434,Zaam-Dox,O'Connell Group,2008-11-05,3,1,48.15
+435,Sonsing,Leuschke-Ward,2015-12-20,5,1,38.39
+436,Quo Lux,Miller-Gleason,2008-11-05,3,1,57.17
+437,Cardguard,Roberts LLC,2019-02-24,8,1,50.27
+438,Fix San,"Berge, Brakus and Dare",2017-08-25,3,0,63.59
+439,Daltfresh,Jacobson-Bechtelar,2023-04-15,1,0,31.51
+440,Tin,"Gusikowski, Fisher and Skiles",2015-10-24,4,1,59.89
+441,Konklab,Wintheiser-Greenfelder,2012-12-30,3,1,21.12
+442,Bitwolf,Harris and Sons,2014-05-29,3,0,22.52
+443,Duobam,Quigley Group,2017-11-02,1,1,33.64
+444,Namfix,Walter-Borer,2014-08-05,6,1,43.44
+445,Holdlamis,Kilback-Hermiston,2019-11-02,7,0,50.48
+446,Treeflex,"Strosin, Marks and Murphy",2024-06-18,7,1,33.82
+447,Transcof,"Ondricka, Larkin and Corwin",2019-07-19,2,0,67.14
+448,Alphazap,"Cassin, Waelchi and Bode",2014-07-12,3,1,28.12
+449,Y-find,Parker-Kuhn,2020-03-08,2,0,54.91
+450,Bytecard,"Schimmel, Trantow and Schulist",2010-05-04,1,1,40.50
+451,Home Ing,"Smith, Batz and Lemke",2009-04-26,4,0,17.10
+452,Fintone,"Kemmer, Homenick and Bernhard",2015-03-01,6,1,61.73
+453,Solarbreeze,Stamm LLC,2013-05-21,3,0,63.82
+454,Alphazap,Rempel-Hagenes,2013-06-29,6,0,28.79
+455,Stim,Dooley-Franecki,2017-10-14,4,1,48.98
+456,Alpha,Rath-Rath,2015-10-09,3,0,63.72
+457,Veribet,McDermott LLC,2010-02-26,3,0,31.39
+458,Wrapsafe,Schmeler-Feeney,2016-01-19,1,0,35.30
+459,Tampflex,Pfeffer Inc,2012-07-10,3,0,63.85
+460,Alpha,"Klocko, Okuneva and Larkin",2013-07-19,3,0,48.09
+461,Konklux,Huels Inc,2010-09-11,6,0,54.25
+462,Y-Solowarm,Dach-Turner,2014-12-02,1,1,14.73
+463,Tin,Botsford-Nikolaus,2011-10-22,3,1,34.05
+464,Sonsing,Yost LLC,2020-07-17,1,0,19.99
+465,Overhold,Kiehn-Dach,2021-03-22,4,0,68.68
+466,Cardify,Heller Inc,2015-06-04,1,1,21.41
+467,Daltfresh,"Hartmann, Douglas and Muller",2020-04-10,3,0,11.80
+468,Treeflex,Kessler-O'Connell,2009-07-09,2,0,47.04
+469,Zoolab,Padberg-Schmitt,2017-05-01,2,0,22.45
+470,Biodex,Beier Group,2011-07-04,3,1,6.96
+471,Kanlam,"Kuvalis, Schimmel and Koch",2009-07-02,4,1,37.64
+472,Andalax,Weissnat Inc,2019-10-22,2,1,33.59
+473,Zaam-Dox,Hudson LLC,2022-10-02,3,1,43.61
+474,Temp,Franecki-Welch,2013-09-21,1,0,23.27
+475,Latlux,"Smitham, Reynolds and Gerhold",2024-07-10,3,0,55.50
+476,Hatity,"Cormier, Gibson and Labadie",2011-11-24,3,1,20.81
+477,Zoolab,Littel-Abernathy,2018-03-03,4,0,69.00
+478,Asoka,Hermiston Inc,2016-12-23,1,1,52.51
+479,Opela,Schmeler LLC,2023-09-26,2,0,61.90
+480,Stronghold,Hammes-Hansen,2024-03-18,7,1,44.02
+481,Alphazap,Grant-Ratke,2012-04-27,5,0,35.68
+482,Fix San,DuBuque Inc,2015-06-22,2,0,38.63
+483,Lotlux,Hickle-Tromp,2010-09-26,6,1,68.65
+484,Stringtough,"Pfannerstill, Rogahn and Barrows",2023-12-27,3,0,69.05
+485,Pannier,Christiansen Group,2014-03-16,3,0,34.70
+486,Lotstring,Hyatt-Marks,2022-11-14,4,1,37.27
+487,Alphazap,"Jerde, Green and Herman",2009-11-27,6,0,19.38
+488,Aerified,"Bergnaum, Trantow and Mohr",2010-10-29,6,0,61.58
+489,Tampflex,"Yost, Yundt and Crooks",2014-05-26,2,0,20.87
+490,Zathin,Boyle-Bednar,2018-10-12,2,1,20.28
+491,Prodder,Cummings Inc,2008-08-06,3,1,65.19
+492,Cardify,Ledner-Stroman,2017-11-03,3,0,30.19
+493,Tresom,Bernhard LLC,2024-04-02,7,0,11.93
+494,Tempsoft,Kuvalis-Glover,2020-01-12,2,0,32.24
+495,Toughjoyfax,Mueller Inc,2023-02-26,2,1,3.80
+496,Duobam,"Terry, Daugherty and Gulgowski",2014-09-13,3,1,64.99
+497,Andalax,Collier-Runte,2016-01-17,2,0,54.23
+498,Konklux,Ruecker-Kertzmann,2016-11-11,2,1,59.54
+499,Job,Balistreri-Boyle,2017-08-05,2,0,55.51
+500,Konklux,Schuster-Hackett,2014-02-23,1,1,54.41
+501,Span,Hodkiewicz and Sons,2008-11-07,5,0,2.08
+502,Cardguard,Lindgren Inc,2011-12-08,1,0,5.48
+503,Sonsing,"Nienow, Douglas and Stracke",2015-04-12,2,0,4.83
+504,Gembucket,Hansen-O'Reilly,2012-09-15,2,1,66.80
+505,Tres-Zap,"Treutel, Boyle and Volkman",2016-09-13,1,0,7.35
+506,Kanlam,"Lakin, Leannon and Gusikowski",2021-08-18,2,0,63.01
+507,Vagram,Will-Grady,2021-05-21,4,1,11.63
+508,Domainer,Lesch-Grant,2008-12-11,3,1,48.26
+509,Latlux,"Sipes, Johnston and Leffler",2016-03-20,2,1,15.44
+510,Alpha,Nolan LLC,2017-11-18,3,0,66.60
+511,Gembucket,"Nitzsche, Pagac and Dooley",2022-12-08,4,1,52.43
+512,Temp,Bradtke-Reynolds,2018-10-10,3,1,54.53
+513,Temp,Dach-Schroeder,2009-04-01,5,1,32.87
+514,Wrapsafe,Streich-Kulas,2015-08-19,5,1,1.39
+515,Bigtax,Considine-Mante,2010-03-27,6,1,39.56
+516,Domainer,Haley-Feest,2009-02-04,2,0,4.89
+517,Treeflex,"Franecki, Franecki and Quigley",2011-09-06,3,1,11.12
+518,Konklab,"Barton, Hartmann and Lubowitz",2016-01-09,4,1,35.79
+519,Overhold,Nikolaus-Kemmer,2008-08-03,6,1,17.30
+520,Solarbreeze,Swift-Boyer,2010-05-29,3,0,12.78
+521,Viva,Spinka-Murray,2020-12-27,2,1,48.36
+522,Stim,Lowe Inc,2021-11-18,2,0,48.02
+523,Voyatouch,"Jacobson, Ernser and Pouros",2014-05-24,4,0,31.14
+524,Redhold,Spencer LLC,2014-01-12,1,1,52.89
+525,Mat Lam Tam,Conroy Group,2010-09-22,5,0,58.50
+526,Cookley,"Funk, Rau and Sporer",2022-04-19,1,0,52.80
+527,Konklux,"Glover, Swaniawski and Strosin",2014-06-11,1,0,11.95
+528,Rank,"Grant, Ullrich and Becker",2019-11-13,2,1,12.80
+529,Regrant,Senger-Feest,2012-02-16,4,1,46.91
+530,Sonair,"Glover, Morissette and Nitzsche",2014-04-12,1,1,51.71
+531,Keylex,Kemmer-Graham,2013-11-28,2,1,54.76
+532,Stim,"Bogan, Witting and Okuneva",2023-04-11,1,1,47.08
+533,Job,Spinka Inc,2009-05-29,6,1,19.37
+534,Asoka,Kuvalis and Sons,2009-01-15,6,0,12.86
+535,Greenlam,Kilback Group,2015-09-01,4,1,21.29
+536,Tempsoft,DuBuque-Kulas,2012-07-13,1,0,43.91
+537,Voltsillam,Buckridge LLC,2011-12-12,4,1,54.57
+538,Tempsoft,"Simonis, O'Hara and Mills",2010-02-21,3,1,31.24
+539,Kanlam,Kulas and Sons,2011-03-10,1,0,57.38
+540,Konklux,Olson-Reilly,2008-06-14,4,1,27.37
+541,Flexidy,"Reichel, Stracke and Leffler",2020-04-21,6,1,0.51
+542,Ventosanzap,O'Kon-Schneider,2015-01-24,5,0,48.98
+543,Gembucket,"Farrell, Friesen and Romaguera",2014-10-26,6,1,48.97
+544,Zontrax,"Mann, Doyle and Schaden",2009-08-13,6,0,66.00
+545,Treeflex,Barrows Group,2024-02-09,3,1,69.07
+546,Lotstring,"Price, Gleichner and Beatty",2009-10-25,5,0,37.76
+547,Matsoft,Lockman-Legros,2008-10-23,1,1,27.38
+548,Bytecard,Dach Inc,2022-01-09,1,0,18.59
+549,Zaam-Dox,Jast-Weissnat,2013-04-15,2,1,10.23
+550,Greenlam,"Ziemann, Batz and Schumm",2016-01-20,3,1,43.90
+551,Regrant,"Kris, Reichel and Bartell",2020-05-14,1,0,56.20
+552,Voyatouch,Aufderhar Inc,2021-09-12,3,1,31.94
+553,Y-Solowarm,"Bailey, Donnelly and Bartoletti",2018-09-25,5,1,61.41
+554,Overhold,Daugherty and Sons,2017-05-27,2,1,23.23
+555,Sub-Ex,Dicki-Murphy,2017-08-27,1,0,3.05
+556,Biodex,"Farrell, Streich and Reichert",2020-06-16,3,1,43.60
+557,Zoolab,"Williamson, Hahn and Bartoletti",2014-06-10,1,0,25.92
+558,Stronghold,"D'Amore, Feest and Johns",2017-11-04,4,1,46.59
+559,Bytecard,"Weber, Berge and Carroll",2016-09-04,6,0,40.17
+560,Redhold,Zemlak Group,2017-10-16,2,1,3.16
+561,Sonair,Skiles-Kilback,2010-02-13,1,1,50.15
+562,Namfix,Waters-Moen,2022-03-11,1,0,42.43
+563,Opela,Wilderman and Sons,2014-08-17,1,0,17.83
+564,Domainer,Klocko-Anderson,2023-11-15,2,0,54.39
+565,Home Ing,Jacobi and Sons,2011-01-30,4,0,37.34
+566,Flowdesk,Schamberger LLC,2016-11-17,3,0,14.02
+567,Zaam-Dox,Breitenberg and Sons,2019-08-03,1,0,35.38
+568,Stringtough,Corwin-Pagac,2014-07-25,2,0,4.83
+569,Zoolab,"Kemmer, Wisozk and Boyer",2014-06-19,6,0,64.02
+570,Namfix,Graham Group,2014-07-04,2,1,53.03
+571,Zathin,"VonRueden, Rippin and Nolan",2012-02-16,2,0,65.34
+572,Aerified,Champlin Group,2008-09-15,1,0,54.04
+573,Zathin,"Collier, Grant and Bechtelar",2018-05-19,3,1,29.88
+574,Hatity,"Goodwin, Greenholt and Predovic",2013-01-23,4,1,36.28
+575,Zoolab,"Schroeder, Carter and Goldner",2015-06-07,2,0,64.55
+576,Trippledex,Sporer-Schaefer,2012-10-29,1,0,16.63
+577,Cardify,Schoen-Heathcote,2017-07-12,3,1,5.86
+578,Gembucket,Davis and Sons,2024-03-22,3,1,25.94
+579,Biodex,"Borer, Torphy and Price",2022-02-13,1,0,53.73
+580,Y-find,"Spencer, Gislason and Doyle",2012-03-01,2,0,8.00
+581,Y-Solowarm,Keeling-Von,2017-12-30,4,1,2.60
+582,Fixflex,"Thiel, Hermiston and Bartoletti",2008-12-05,4,0,54.28
+583,Subin,"Predovic, Strosin and Purdy",2021-06-15,3,1,17.49
+584,Sub-Ex,"Ritchie, Rempel and Quigley",2022-04-26,2,1,65.11
+585,Matsoft,"Leuschke, Kuhn and Pollich",2010-07-04,4,0,42.92
+586,Asoka,"Barton, Breitenberg and Sporer",2019-04-01,3,0,18.20
+587,Stim,"Smith, Krajcik and Morar",2018-11-09,6,0,20.34
+588,Zoolab,Waters Group,2011-11-08,2,1,3.34
+589,Redhold,White-Sauer,2013-03-16,8,0,4.79
+590,Gembucket,Wolff-Waelchi,2020-02-04,2,1,64.54
+591,Rank,Grimes Inc,2015-09-24,5,1,66.07
+592,Aerified,Kuhic LLC,2014-08-28,3,1,54.62
+593,Alphazap,Ward-Hintz,2009-10-25,4,1,7.03
+594,Stim,"Thompson, Klein and Gislason",2010-07-17,3,0,59.52
+595,Flexidy,Becker-Donnelly,2016-06-18,2,1,50.64
+596,Job,"Predovic, McClure and Casper",2011-09-22,3,0,22.67
+597,Toughjoyfax,Kuphal Inc,2021-06-03,8,1,34.77
+598,Vagram,"Hills, Kris and Hegmann",2020-03-04,2,1,56.73
+599,Job,"Ratke, Howe and Luettgen",2020-04-09,5,1,55.92
+600,Fix San,White LLC,2021-05-21,2,1,42.09
+601,Sonsing,"Dare, Daugherty and Homenick",2020-08-27,2,1,36.17
+602,Bigtax,Thiel and Sons,2014-07-16,4,1,27.05
+603,Konklab,"Dicki, Ledner and Roberts",2015-11-08,6,1,13.36
+604,Quo Lux,Kovacek Inc,2013-06-19,1,0,36.17
+605,Veribet,Harvey Group,2016-06-21,1,1,59.88
+606,Bamity,Roberts-Mann,2021-01-21,3,0,66.02
+607,Zontrax,"Bayer, Streich and Schamberger",2010-12-21,5,1,29.64
+608,Greenlam,"Schamberger, Rempel and Gulgowski",2021-09-28,5,1,61.16
+609,Tin,Boyer-Stroman,2017-10-22,1,1,48.16
+610,Vagram,Jacobson-Simonis,2019-08-18,2,1,26.98
+611,Bigtax,Bailey and Sons,2020-01-27,1,0,9.90
+612,Cardify,Sanford-Rau,2011-04-06,1,1,44.68
+613,Holdlamis,Rice-Lebsack,2013-03-04,1,1,25.24
+614,Solarbreeze,Johns-Bashirian,2017-01-03,3,1,21.12
+615,Greenlam,"Little, Satterfield and Howe",2023-09-18,2,1,49.93
+616,Otcom,Cormier-Anderson,2019-09-04,1,0,51.39
+617,Subin,Pollich-Murazik,2017-02-07,5,1,8.76
+618,Zontrax,Purdy Group,2021-09-04,5,0,45.45
+619,Treeflex,"McKenzie, Brakus and Weber",2010-04-10,2,0,10.35
+620,Voltsillam,Waelchi-Welch,2010-10-04,5,1,37.97
+621,Stringtough,Lakin Group,2022-06-01,2,0,17.11
+622,Duobam,Konopelski-Gottlieb,2010-08-26,1,1,42.95
+623,Span,Tillman Group,2017-05-17,6,0,59.67
+624,Treeflex,Bayer-Marks,2022-08-20,2,0,38.35
+625,Keylex,"Schumm, Bernhard and Rodriguez",2009-07-28,6,1,22.11
+626,Keylex,Gutkowski-Gottlieb,2009-07-11,2,1,39.45
+627,Flexidy,Schowalter-Spinka,2011-06-11,2,0,2.85
+628,Regrant,Walter-Olson,2013-11-03,4,1,54.59
+629,Otcom,Rau-Rowe,2013-11-28,5,1,15.22
+630,Konklux,Reynolds-Jacobson,2011-11-12,4,1,6.16
+631,Daltfresh,Kub Inc,2023-02-05,1,0,31.42
+632,Keylex,Vandervort Inc,2018-10-18,2,0,34.68
+633,Ronstring,"Reynolds, Toy and Marvin",2012-07-23,2,1,58.79
+634,Rank,Waelchi LLC,2019-07-03,3,1,57.53
+635,Tresom,Lind LLC,2022-01-28,4,1,28.77
+636,Treeflex,Runolfsson-Lockman,2018-05-22,6,0,31.07
+637,It,Terry-Green,2015-07-27,2,0,16.94
+638,Treeflex,Hessel and Sons,2022-02-23,2,0,7.10
+639,Vagram,"Crist, Murphy and Kozey",2022-03-22,6,1,30.90
+640,Zontrax,MacGyver LLC,2024-03-30,6,0,4.23
+641,Prodder,Harvey-Crist,2018-10-24,5,1,65.54
+642,Duobam,Graham and Sons,2012-04-22,1,1,22.48
+643,Veribet,"Hirthe, Funk and Koss",2024-07-10,5,0,31.93
+644,Sonsing,Smitham Group,2013-06-12,2,1,2.97
+645,Vagram,Robel and Sons,2012-07-18,5,1,61.58
+646,Alphazap,"Heaney, Green and McDermott",2022-11-13,1,1,63.85
+647,Viva,Rogahn-Ankunding,2021-12-10,4,0,64.62
+648,Transcof,Greenfelder-Kessler,2022-11-15,1,1,61.78
+649,Fix San,Cruickshank-McGlynn,2014-07-11,2,1,15.04
+650,Lotstring,"Douglas, Muller and Monahan",2023-09-03,3,0,51.57
+651,Tempsoft,Hahn LLC,2015-11-29,7,0,31.26
+652,Bytecard,"McKenzie, Wehner and Moen",2011-02-22,3,0,20.68
+653,Bigtax,Hermann LLC,2010-07-28,6,0,30.84
+654,Solarbreeze,"Fahey, Rippin and Quitzon",2011-10-15,1,0,47.68
+655,Voltsillam,"Sauer, Harber and Sauer",2018-03-13,2,1,19.82
+656,Namfix,Russel-Predovic,2023-05-21,3,1,16.93
+657,Tin,"Waelchi, Wisozk and Conroy",2023-10-07,6,1,67.21
+658,Konklux,Prohaska-Gutkowski,2019-10-31,4,1,7.22
+659,Alpha,Tromp-Hane,2017-06-25,1,1,5.14
+660,Transcof,Heathcote Group,2014-09-09,5,0,21.74
+661,Cookley,Hoeger-Metz,2021-06-27,8,1,17.51
+662,Regrant,"Schultz, Little and Block",2010-11-27,6,1,47.93
+663,Opela,Gutmann LLC,2018-11-08,1,1,19.45
+664,Lotstring,Beer-Lemke,2020-01-15,2,0,2.10
+665,Ronstring,McLaughlin-Wuckert,2010-03-18,2,1,15.68
+666,Vagram,Davis Inc,2014-05-12,6,1,34.39
+667,Konklab,Bartell Group,2010-07-04,1,0,47.46
+668,Latlux,Bergnaum-Treutel,2016-01-21,6,1,31.12
+669,Biodex,Murazik-Leffler,2014-11-29,5,0,28.56
+670,Andalax,Block Group,2012-01-29,1,0,10.32
+671,Sonsing,Yost-Bogisich,2013-09-25,4,1,45.51
+672,Bitchip,"Weber, Turcotte and Aufderhar",2023-07-05,2,1,25.48
+673,Transcof,Hettinger-Deckow,2014-08-17,6,1,14.06
+674,Solarbreeze,"Ondricka, Turcotte and Dickens",2020-02-21,4,0,65.23
+675,Y-find,Hegmann-Boyer,2013-04-06,3,0,27.39
+676,Bytecard,Erdman and Sons,2024-01-18,6,1,34.82
+677,Tempsoft,Schmeler-Larson,2022-05-15,4,0,26.00
+678,Ventosanzap,Lueilwitz and Sons,2012-09-29,2,0,39.08
+679,Cookley,Donnelly LLC,2013-05-09,4,0,39.01
+680,Job,Quitzon Inc,2014-07-07,3,1,51.00
+681,Bamity,Hermiston Inc,2016-11-15,5,1,3.79
+682,Bytecard,Goldner and Sons,2024-02-16,1,0,3.14
+683,Tampflex,Dickinson Inc,2016-04-09,1,0,58.77
+684,Voyatouch,"Conroy, Goodwin and Funk",2023-08-14,6,0,1.59
+685,Asoka,Veum-Feest,2016-08-06,3,0,43.37
+686,Tampflex,Muller-Hansen,2008-07-18,4,1,8.82
+687,Tresom,"Beer, Crona and Schimmel",2019-02-08,2,0,61.84
+688,Zathin,"Emard, Harris and Lueilwitz",2013-01-27,6,0,48.41
+689,Span,Fritsch Group,2018-01-01,1,1,2.45
+690,Zathin,Funk Inc,2012-05-03,5,1,59.80
+691,Ronstring,Dach Inc,2014-08-22,4,1,17.25
+692,Otcom,"Denesik, Weimann and Stamm",2008-12-23,3,1,31.11
+693,Bitwolf,"Wisozk, Rohan and Schoen",2023-04-03,1,1,35.60
+694,Y-find,Mayer-Kuhn,2014-02-11,3,0,42.65
+695,Cardify,Frami-Gerlach,2020-12-30,1,0,53.50
+696,Cardify,Pfeffer and Sons,2020-10-31,3,0,5.73
+697,Konklux,Dickens-Kutch,2010-03-20,3,0,54.62
+698,Cardguard,Murazik-Gusikowski,2017-07-13,5,0,59.00
+699,Konklux,"Bogan, Pollich and Dibbert",2013-06-05,5,1,57.88
+700,Temp,Thompson and Sons,2020-09-08,2,1,69.29
+701,Overhold,"Dietrich, Dickinson and Schultz",2020-06-11,3,0,23.05
+702,Tin,Grimes and Sons,2008-12-03,1,1,7.91
+703,Namfix,Yost-Jacobs,2010-04-07,5,0,58.98
+704,Viva,"Leannon, Stark and Kirlin",2009-07-25,1,1,59.68
+705,Zathin,O'Keefe LLC,2023-12-28,3,1,25.69
+706,Tres-Zap,"Reilly, Hilpert and Fahey",2010-04-05,7,0,9.33
+707,Alpha,Bosco LLC,2008-11-04,2,0,18.21
+708,Zoolab,Trantow and Sons,2019-02-21,6,0,18.52
+709,Ventosanzap,Jast and Sons,2015-11-29,3,1,10.70
+710,Trippledex,"Mayer, Tillman and Hayes",2012-11-02,3,0,66.05
+711,Keylex,"Luettgen, Orn and Strosin",2019-05-11,5,0,57.88
+712,Sonair,Kuphal-Boyer,2016-10-27,3,1,29.02
+713,Konklux,Jaskolski-Volkman,2024-05-25,2,0,24.87
+714,Bamity,Bashirian-Tremblay,2023-09-29,3,1,28.78
+715,Domainer,"Mayert, Corwin and O'Reilly",2023-08-17,6,0,49.52
+716,Treeflex,"Predovic, Grady and Kuhn",2018-03-12,1,1,21.23
+717,Matsoft,"Hills, Daugherty and Konopelski",2023-04-26,3,1,41.81
+718,Opela,"Feest, McCullough and Mitchell",2015-02-18,2,1,63.95
+719,Bitwolf,"Langworth, Pfannerstill and Bradtke",2011-06-17,6,1,30.55
+720,Y-find,"Veum, Ward and Breitenberg",2012-09-25,1,0,69.39
+721,Aerified,"Schroeder, Carroll and Cummings",2019-10-23,3,1,0.19
+722,Tampflex,"Keebler, Treutel and Mohr",2019-11-27,4,0,32.48
+723,Vagram,Shields Inc,2024-06-28,3,1,59.61
+724,Bitwolf,Douglas LLC,2018-06-30,3,0,57.85
+725,Asoka,Kunde-Howell,2020-06-27,1,1,46.84
+726,Keylex,Kilback and Sons,2018-11-16,8,1,42.18
+727,Fixflex,"Labadie, Kiehn and Connelly",2019-02-26,6,0,63.18
+728,Voyatouch,"Boyer, Zemlak and Krajcik",2010-03-15,1,1,14.43
+729,Tres-Zap,Stracke-Welch,2010-05-31,1,1,53.72
+730,Otcom,Feil-Frami,2021-11-30,5,0,19.79
+731,Gembucket,Kuhlman-Fay,2021-09-11,2,0,6.00
+732,Toughjoyfax,Schultz LLC,2021-12-26,3,1,58.26
+733,Bamity,Hessel-Hudson,2009-12-03,3,1,16.12
+734,It,Ullrich Group,2013-06-16,2,0,64.35
+735,Bytecard,Schaden-Lehner,2009-01-24,4,0,12.76
+736,Cardify,Mertz-Hegmann,2008-07-07,6,1,31.69
+737,Wrapsafe,Gleason Inc,2009-04-23,6,1,11.58
+738,Domainer,Lesch and Sons,2018-09-09,4,1,68.84
+739,Zamit,"Dickens, Kilback and Goodwin",2021-09-28,5,0,21.34
+740,Kanlam,Greenholt Inc,2020-12-30,3,0,53.28
+741,Sonsing,Emmerich-Lebsack,2015-06-07,2,0,18.83
+742,Kanlam,O'Connell and Sons,2011-05-21,3,0,4.20
+743,Regrant,"O'Kon, Reichert and Monahan",2022-06-09,1,1,27.54
+744,Trippledex,Pfannerstill-Schroeder,2024-01-01,7,0,7.63
+745,Biodex,"Boehm, Trantow and Weber",2019-01-10,3,1,47.06
+746,Keylex,Legros-Kiehn,2022-12-16,6,1,28.05
+747,Span,Welch and Sons,2015-11-08,9,1,3.26
+748,Greenlam,Grady Group,2014-05-05,4,0,30.02
+749,Flexidy,Lakin and Sons,2021-01-21,2,1,61.19
+750,It,Reichert LLC,2023-04-24,7,0,30.75
+751,Hatity,"Corkery, Botsford and Fritsch",2018-05-26,1,0,41.08
+752,Solarbreeze,Paucek LLC,2020-04-02,2,0,63.67
+753,It,Cummings-Leannon,2023-03-20,4,1,25.44
+754,Opela,"Halvorson, Green and Wyman",2020-04-05,4,1,66.85
+755,Redhold,"Kohler, Feeney and Bednar",2011-12-13,6,1,66.09
+756,Subin,"Beer, Stehr and Labadie",2008-06-05,6,1,47.58
+757,Stronghold,"Rippin, Weber and Collier",2020-02-09,2,0,59.59
+758,Sub-Ex,"Armstrong, Anderson and Hermann",2017-10-26,2,0,21.42
+759,Overhold,Bins Group,2017-08-14,2,0,67.96
+760,Konklab,Romaguera-Batz,2014-07-22,8,1,41.58
+761,Ventosanzap,Murphy Group,2009-08-20,6,0,1.14
+762,Daltfresh,McCullough-Trantow,2014-06-13,5,0,48.04
+763,Namfix,Sporer-Greenholt,2020-08-09,1,1,21.56
+764,Zoolab,"Rempel, Wisoky and Swaniawski",2022-05-03,2,0,55.51
+765,Tempsoft,"Bartoletti, Mueller and Flatley",2013-11-18,5,0,62.39
+766,Tres-Zap,Stoltenberg-Blanda,2013-01-15,2,0,11.20
+767,Trippledex,Ziemann-Swift,2011-06-04,8,1,26.76
+768,Flowdesk,Jacobs and Sons,2023-04-24,5,1,30.51
+769,Stronghold,Stoltenberg-Larson,2018-02-12,5,1,53.67
+770,Ventosanzap,Bode-Corwin,2013-01-12,3,0,63.08
+771,Alphazap,Ritchie LLC,2014-11-09,8,1,18.94
+772,Zamit,"Kohler, Weber and Kovacek",2017-04-04,6,0,4.35
+773,Sub-Ex,Kuhn and Sons,2021-11-05,3,0,5.75
+774,Subin,Johnson Inc,2012-07-24,3,0,14.42
+775,Holdlamis,McGlynn and Sons,2015-06-25,1,1,6.41
+776,Y-find,Keebler-Monahan,2014-12-29,1,1,60.97
+777,Span,Jacobi-Goldner,2008-12-29,5,1,8.68
+778,Lotlux,"McDermott, Thompson and Gutkowski",2008-06-13,2,1,33.58
+779,Biodex,Mohr-Bradtke,2017-07-06,3,0,44.01
+780,Zaam-Dox,"Padberg, Lockman and Stokes",2011-06-09,3,0,42.05
+781,It,Hills-Kiehn,2022-11-17,3,1,22.88
+782,Asoka,Nitzsche Group,2011-07-15,2,0,20.13
+783,Regrant,"Bernier, Torp and Marks",2017-07-09,5,0,27.14
+784,Daltfresh,Greenholt Inc,2009-01-17,1,1,59.77
+785,Konklux,Terry-Waelchi,2019-03-02,3,1,37.84
+786,Opela,Kerluke Group,2010-05-09,1,1,22.77
+787,Fixflex,Stroman Inc,2015-03-26,5,0,67.71
+788,Stim,Pfannerstill-Johnson,2012-12-05,2,0,40.06
+789,Asoka,"Heathcote, Boyer and Johnson",2009-06-30,5,1,0.67
+790,Andalax,Dickens and Sons,2019-02-24,5,1,14.09
+791,Pannier,Yost and Sons,2008-11-22,1,0,25.47
+792,Fix San,Quitzon and Sons,2012-10-21,1,1,3.08
+793,Andalax,"Mills, Abernathy and Prohaska",2019-09-05,2,1,46.98
+794,Span,"Ernser, Nolan and Morissette",2013-03-17,6,1,45.48
+795,Kanlam,Hermiston and Sons,2017-06-06,4,0,46.79
+796,Opela,"Volkman, Muller and Adams",2016-12-01,2,0,18.54
+797,Bitwolf,Senger and Sons,2011-07-04,4,0,39.83
+798,Voyatouch,"Streich, Hane and Gleichner",2022-12-18,1,0,20.21
+799,Flowdesk,Harber Group,2022-07-01,5,1,41.17
+800,Domainer,Morar and Sons,2019-08-14,1,0,51.40
+801,Keylex,Grady-Walker,2013-07-16,1,1,5.96
+802,Pannier,"Halvorson, Nicolas and Feeney",2011-02-16,1,1,22.76
+803,Cookley,Brakus Inc,2023-11-22,2,1,50.71
+804,Keylex,Braun Group,2010-06-13,1,0,51.71
+805,Ronstring,Beier-Littel,2010-04-15,6,1,25.53
+806,Namfix,Hudson LLC,2008-11-02,1,0,3.20
+807,Y-Solowarm,West LLC,2013-07-28,2,1,7.28
+808,Subin,"Ebert, McClure and Barton",2012-12-01,3,1,68.18
+809,Hatity,Abernathy Group,2009-05-23,1,1,3.51
+810,Vagram,Lakin-Weber,2021-12-14,2,1,19.52
+811,Namfix,"Hermann, Greenfelder and Strosin",2015-10-24,1,0,55.42
+812,Bytecard,"Wiza, Thompson and Lowe",2016-12-17,3,0,19.72
+813,Stim,"Durgan, Bins and Herzog",2019-08-02,3,0,27.62
+814,Domainer,Witting-Haley,2022-12-06,2,1,48.58
+815,Zoolab,O'Kon and Sons,2011-02-19,2,1,30.63
+816,Veribet,Conn-Mraz,2021-04-29,8,0,60.61
+817,Redhold,Schimmel-Bernhard,2021-07-07,7,1,14.20
+818,Solarbreeze,Ratke-Daniel,2023-11-23,3,1,4.41
+819,Tresom,Hoppe-Kuhlman,2013-05-15,3,0,31.09
+820,Fintone,Wiegand-Cremin,2011-11-29,3,0,56.28
+821,Cookley,Stracke and Sons,2010-08-17,6,0,61.03
+822,Ventosanzap,"Mertz, Altenwerth and Bradtke",2021-11-29,3,1,55.43
+823,Wrapsafe,Bauch Group,2016-07-01,1,0,9.90
+824,Andalax,"Quitzon, Upton and Christiansen",2014-09-02,2,1,67.50
+825,Ventosanzap,"Schneider, Jast and Daugherty",2020-03-19,3,0,42.13
+826,Bigtax,Lindgren and Sons,2011-03-23,2,0,27.99
+827,Tampflex,"Mosciski, Olson and Schiller",2012-08-21,2,0,25.43
+828,Flowdesk,Gusikowski LLC,2022-08-21,2,0,54.89
+829,Stringtough,"Metz, Schinner and Fadel",2011-09-15,6,0,18.32
+830,Mat Lam Tam,"Mosciski, Spencer and Bernhard",2009-01-31,1,1,44.27
+831,Tampflex,Rogahn-Wilkinson,2016-06-26,2,1,5.39
+832,Asoka,"Herman, Cormier and Ledner",2015-06-10,2,0,4.06
+833,Duobam,Jacobi Group,2015-06-19,1,1,5.50
+834,Alpha,"Graham, Ernser and Boyer",2022-07-23,3,0,43.67
+835,Wrapsafe,Herman-Blick,2012-10-26,3,1,0.32
+836,Fixflex,"Feeney, Kuhn and Heidenreich",2020-09-04,3,0,59.64
+837,Viva,"Flatley, Nicolas and Kautzer",2009-07-13,1,1,32.44
+838,Home Ing,"Halvorson, Rice and Witting",2021-09-07,2,0,12.44
+839,Toughjoyfax,Von-Swift,2024-02-23,6,0,4.53
+840,Job,"Cassin, Lemke and Pollich",2022-06-23,1,0,33.79
+841,Home Ing,Erdman-Feil,2009-01-10,2,1,18.47
+842,Sonair,Hand and Sons,2009-10-11,1,1,22.89
+843,Subin,Schaefer Inc,2012-04-11,3,0,58.23
+844,Tampflex,"Mitchell, Wilderman and Yost",2019-01-27,6,0,63.06
+845,Solarbreeze,Barrows LLC,2023-09-25,5,0,70.00
+846,Stim,"McClure, Greenholt and Gulgowski",2015-06-06,2,1,36.79
+847,Opela,Stamm-Adams,2021-04-10,4,0,61.54
+848,Lotlux,Little-Smitham,2013-03-08,2,1,5.92
+849,Opela,Boyle LLC,2014-07-03,3,0,43.67
+850,Zamit,"Huel, Satterfield and Wiegand",2012-11-03,1,0,62.00
+851,Rank,West Inc,2011-12-29,3,1,57.47
+852,Home Ing,"Reilly, Anderson and Balistreri",2023-10-02,6,0,46.34
+853,Holdlamis,Raynor-Ryan,2020-04-10,2,1,23.58
+854,Prodder,Heller-Block,2023-07-17,2,1,48.06
+855,Pannier,Krajcik Group,2009-01-18,8,1,69.49
+856,Konklab,Konopelski Group,2009-11-13,2,1,38.30
+857,Y-find,"Abernathy, Funk and Jast",2017-08-25,1,0,63.98
+858,Zontrax,Hoppe-Wilkinson,2009-12-29,2,0,66.27
+859,Konklux,Ryan-Lehner,2022-08-15,3,0,52.49
+860,Cookley,Romaguera-Walter,2023-07-02,2,0,49.67
+861,Opela,Gorczany-Gerlach,2011-10-06,2,1,62.32
+862,Zathin,"Carroll, Braun and Wisoky",2019-11-16,3,0,25.96
+863,Zontrax,Corwin-Moen,2024-07-22,3,0,11.75
+864,Job,Brown-Shanahan,2009-12-29,1,1,3.13
+865,Bytecard,Weimann and Sons,2023-11-16,4,1,19.71
+866,Latlux,"Howell, Beahan and VonRueden",2015-01-13,4,1,24.12
+867,Regrant,"Hammes, Dooley and Block",2017-05-30,4,0,60.41
+868,Job,Kunze-Wiza,2008-07-21,5,0,5.90
+869,Bitwolf,"Jones, Shields and Hickle",2017-09-20,1,0,51.84
+870,Overhold,Kub-Mayer,2023-03-25,1,0,28.90
+871,Bigtax,Kihn Group,2016-08-25,4,0,16.42
+872,Zamit,Ziemann-Harris,2022-02-14,3,0,11.37
+873,Keylex,Fadel Inc,2019-10-30,8,0,53.72
+874,Home Ing,"Smitham, Boehm and Emard",2012-03-07,5,1,18.14
+875,Mat Lam Tam,Kuhn Group,2008-12-30,3,0,65.72
+876,Aerified,Brown-Nienow,2021-05-13,2,1,50.44
+877,Tampflex,Jaskolski-Gusikowski,2012-11-22,3,0,0.93
+878,Stronghold,Hammes LLC,2010-07-19,3,1,25.53
+879,Y-find,"Franecki, Gorczany and Zboncak",2017-06-15,2,1,48.00
+880,Ronstring,"Klein, Haley and Herzog",2022-10-31,1,1,6.55
+881,Viva,"Gibson, Lockman and Wuckert",2022-10-27,1,0,2.50
+882,Zaam-Dox,"Bernhard, Schmeler and McClure",2015-06-04,5,1,38.61
+883,Pannier,Kshlerin-Wilkinson,2010-01-03,3,1,30.70
+884,Mat Lam Tam,"Ondricka, Jenkins and Gibson",2023-09-17,5,1,0.95
+885,Greenlam,Lynch and Sons,2021-05-20,3,1,16.01
+886,Greenlam,Thompson and Sons,2020-07-31,3,0,53.57
+887,Duobam,Conn-Bergstrom,2019-01-13,5,0,53.94
+888,Bitchip,Gutkowski and Sons,2016-02-24,5,0,13.43
+889,Matsoft,"Runolfsson, Baumbach and Bergnaum",2016-09-15,3,1,64.96
+890,Bamity,Gottlieb-O'Kon,2024-04-10,1,1,59.82
+891,Job,Grady and Sons,2019-07-02,2,1,51.11
+892,Vagram,Balistreri LLC,2019-07-21,3,1,12.56
+893,Hatity,Huels-Pfeffer,2022-02-08,3,1,35.69
+894,Matsoft,"Grant, Stiedemann and Klein",2023-09-05,5,1,25.23
+895,Bytecard,Jacobson and Sons,2015-02-18,3,1,0.97
+896,Lotlux,Balistreri-Kuhn,2020-04-09,6,1,18.76
+897,Temp,Bernier and Sons,2018-02-21,2,0,53.93
+898,Alphazap,Stoltenberg LLC,2024-07-27,3,1,22.18
+899,Toughjoyfax,"Auer, Morissette and Botsford",2008-08-18,5,1,25.33
+900,Biodex,Wisoky Inc,2018-02-05,2,1,16.61
+901,Stringtough,"Swift, Farrell and Watsica",2020-12-26,1,0,56.37
+902,Namfix,Ledner Group,2008-07-29,8,1,8.20
+903,Flexidy,Greenholt-Kertzmann,2015-08-16,3,1,59.03
+904,Zontrax,"Mitchell, Weissnat and Feest",2009-05-21,5,1,69.87
+905,Stronghold,"Kshlerin, Welch and Larkin",2018-10-22,2,0,37.02
+906,Sonsing,Fadel and Sons,2015-12-03,4,1,56.68
+907,Flexidy,Kerluke-Ryan,2012-03-23,4,0,58.59
+908,Temp,Shields and Sons,2024-07-09,1,1,35.47
+909,Alphazap,Kuphal Inc,2011-04-15,1,0,63.12
+910,Opela,Roob-Stoltenberg,2023-08-15,2,0,0.99
+911,Vagram,Dach and Sons,2014-01-26,2,1,13.52
+912,Tresom,Jacobs-Schulist,2020-09-07,6,0,21.26
+913,Kanlam,Rolfson-Reilly,2019-09-13,7,1,55.80
+914,Tresom,"Spencer, Barton and D'Amore",2019-02-28,1,0,47.94
+915,Trippledex,Lebsack-Williamson,2021-02-10,8,0,54.68
+916,Namfix,Kuphal Inc,2018-01-26,4,1,17.59
+917,Keylex,Hauck-Nikolaus,2013-08-25,3,1,0.61
+918,Flexidy,McCullough LLC,2013-11-11,6,1,48.81
+919,Greenlam,Franecki Group,2008-07-26,1,0,15.11
+920,Redhold,"Schinner, Aufderhar and Shanahan",2019-12-27,2,0,23.04
+921,Ventosanzap,Hirthe and Sons,2008-11-12,4,0,68.77
+922,Lotstring,Cartwright LLC,2023-07-19,1,0,55.04
+923,Domainer,"Mills, Stracke and Raynor",2021-05-02,2,1,30.35
+924,Voyatouch,Legros Inc,2020-08-22,6,1,0.18
+925,Job,"Koss, Conn and Sporer",2020-07-22,2,0,56.38
+926,Opela,Monahan LLC,2019-09-14,7,0,64.02
+927,Greenlam,"Rogahn, Moen and Koss",2009-05-15,3,0,56.11
+928,Sub-Ex,Abshire LLC,2019-09-02,5,0,54.02
+929,Span,Crona LLC,2013-06-06,1,0,2.73
+930,Viva,Goyette-Senger,2022-10-06,3,0,56.25
+931,Cardguard,Raynor and Sons,2019-12-06,2,1,26.57
+932,Latlux,Schinner-McLaughlin,2012-01-26,1,0,34.33
+933,Bitwolf,"O'Conner, Sporer and Harvey",2014-08-22,8,1,41.98
+934,Konklux,"Ebert, Bergnaum and Morissette",2024-06-09,1,0,56.83
+935,Fintone,Hyatt-McLaughlin,2012-11-01,1,0,16.98
+936,Zontrax,Hintz-Dare,2012-09-21,2,1,57.71
+937,Fintone,"Lockman, White and Thiel",2022-04-19,3,1,20.88
+938,Sonair,"Tillman, Witting and Mills",2018-08-20,1,1,46.27
+939,Flexidy,Kohler and Sons,2022-08-28,4,1,61.69
+940,Bitchip,"Toy, Fadel and McDermott",2013-07-28,3,0,17.95
+941,Latlux,Hodkiewicz-Klein,2013-09-08,3,1,55.09
+942,Bitchip,Trantow-Hickle,2012-05-21,2,0,21.73
+943,Quo Lux,Thiel-Schmitt,2018-05-03,5,0,45.65
+944,Flowdesk,"Waelchi, Williamson and Bogan",2015-07-14,1,1,22.39
+945,Namfix,Blanda Group,2015-12-20,3,1,14.61
+946,Tres-Zap,"Howell, Mueller and Watsica",2021-03-08,5,0,54.84
+947,Keylex,"Labadie, Feeney and Hudson",2014-10-10,3,1,68.68
+948,Keylex,Brakus and Sons,2023-07-25,5,0,30.34
+949,Stringtough,"Fisher, Runolfsdottir and Rosenbaum",2021-04-15,5,1,6.16
+950,Toughjoyfax,Kris Inc,2015-10-20,4,1,59.59
+951,Kanlam,"Ernser, Kovacek and Quigley",2014-11-05,1,1,57.38
+952,It,Morissette-Collier,2020-07-20,1,0,44.63
+953,Bitchip,Denesik LLC,2010-11-08,1,1,22.55
+954,Y-find,"Hilll, Langosh and Anderson",2015-09-23,5,0,29.54
+955,Keylex,Altenwerth-Franecki,2011-06-04,1,1,10.04
+956,Rank,"Mosciski, Jenkins and Lakin",2011-12-05,3,1,53.83
+957,Pannier,"Stroman, Kuvalis and Beahan",2009-11-06,1,0,26.22
+958,Trippledex,Mertz-Grimes,2009-11-12,2,0,56.68
+959,Zontrax,"Beier, Leannon and Yost",2015-03-23,2,0,13.61
+960,Kanlam,"Nader, Nienow and Walter",2009-12-18,2,1,56.99
+961,Transcof,Crooks-Lindgren,2023-10-24,2,0,27.54
+962,Job,"Rath, Gerlach and Dibbert",2024-04-16,3,0,28.09
+963,Overhold,Yost-Schneider,2023-06-14,1,0,5.85
+964,Home Ing,Halvorson and Sons,2019-02-13,1,0,1.17
+965,Zontrax,Abbott LLC,2011-06-08,3,1,27.73
+966,Lotstring,"Nikolaus, Leuschke and Casper",2013-04-04,1,1,3.50
+967,Duobam,Effertz-McDermott,2018-12-23,2,0,33.41
+968,Tin,Lowe-Auer,2017-09-25,6,0,28.14
+969,Veribet,"Homenick, Schumm and Reinger",2015-05-30,1,0,48.26
+970,Zamit,"Kihn, Daugherty and Herzog",2021-09-06,3,1,23.07
+971,Alpha,Bartoletti-Nitzsche,2019-08-06,5,0,16.87
+972,Span,Hills LLC,2024-06-14,6,0,65.70
+973,Alphazap,"Cruickshank, Beer and O'Connell",2018-07-10,4,0,34.46
+974,Zaam-Dox,Walter and Sons,2017-10-25,2,1,62.64
+975,Rank,McDermott-Doyle,2024-04-27,6,0,57.30
+976,Keylex,Hoeger-Bayer,2013-05-09,2,0,28.07
+977,Ronstring,Kuphal-Leuschke,2016-03-11,5,0,39.94
+978,Opela,Legros LLC,2010-06-08,4,1,52.99
+979,Tin,Greenfelder and Sons,2020-04-19,2,1,20.24
+980,Bitwolf,Schaden-Johnston,2010-06-28,3,0,61.33
+981,Asoka,Schuppe-Weber,2019-03-23,1,1,47.64
+982,Mat Lam Tam,Sawayn-Swift,2018-03-08,6,0,5.89
+983,Trippledex,Ullrich-Becker,2020-11-27,2,1,49.83
+984,Mat Lam Tam,Schultz-Thompson,2017-02-10,5,0,65.39
+985,It,Kunde LLC,2010-10-08,3,0,2.43
+986,Tampflex,Balistreri Group,2009-10-17,2,0,37.94
+987,Y-Solowarm,Reinger-Gusikowski,2014-05-08,1,0,41.27
+988,Toughjoyfax,Parker Inc,2013-10-28,8,0,0.02
+989,Aerified,McDermott Inc,2023-12-25,5,1,9.74
+990,Kanlam,"Bauch, Hintz and Hahn",2022-09-21,6,1,23.52
+991,Bytecard,"Abbott, Skiles and Yundt",2020-10-04,4,1,23.04
+992,Konklab,Moore LLC,2022-08-02,1,1,24.22
+993,Fix San,Kirlin-Nader,2018-08-20,4,1,8.53
+994,Home Ing,Schowalter Group,2018-03-10,4,1,13.47
+995,Otcom,"Boyer, Wolff and Wiegand",2023-10-01,5,1,65.04
+996,Solarbreeze,"Brakus, Dach and Kreiger",2022-07-25,4,0,56.53
+997,Pannier,Senger-McCullough,2015-01-28,2,1,0.18
+998,Temp,"Dickinson, Reinger and Upton",2022-06-11,1,1,48.14
+999,Quo Lux,"Hagenes, Cronin and Prohaska",2016-06-26,3,0,49.91
+1000,Bamity,"Witting, Howe and Pouros",2013-10-29,6,1,31.32
