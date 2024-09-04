@@ -120,6 +120,23 @@ BEGIN
 END
 DELIMITER ;
 
+--ContarReseñasJuego
+DELIMITER //
+CREATE FUNCTION ContarReseñasJuego(fid_juego INT) 
+RETURNS INT
+DETERMINISTIC
+READS SQL DATA
+BEGIN
+    DECLARE total_reseñas INT;
+    SELECT COUNT(*)
+    INTO total_reseñas
+    FROM Reseñas
+    WHERE fid_juego = id_juego;
+    RETURN total_reseñas;
+END;
+DELIMITER ;
+
+
 -- STORED PROCEDURES
 -- AgregarJuegoABiblioteca
 DELIMITER //
@@ -134,6 +151,40 @@ BEGIN
 END
 DELIMITER ;
 
+--RegistrarUsuario
+DELIMITER //
+CREATE PROCEDURE `RegistrarUsuario`(
+    IN p_nombre VARCHAR(100),
+    IN p_email VARCHAR(255),
+    IN p_pais VARCHAR(100)
+)
+BEGIN
+    DECLARE usuario_existente INT DEFAULT 0;
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        ROLLBACK;
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'Error en el registro del usuario durante la transacción.';
+    END;
+    START TRANSACTION;
+    -- Verificar si el email ya está en uso
+    SELECT COUNT(*) INTO usuario_existente
+    FROM Usuarios
+    WHERE email = p_email;
+    IF usuario_existente > 0 THEN
+        ROLLBACK;
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'El email ya está en uso.';
+    ELSE
+        -- Insertar el nuevo usuario
+        INSERT INTO Usuarios (nombre, email, fecha_registro, pais, nivel_cuenta)
+        VALUES (p_nombre, p_email, CURDATE(), p_pais, 1);
+        COMMIT;
+    END IF;
+END;
+DELIMITER ;
+
+
 -- TRIGGERS
 -- juegos_bibliotecas_BEFORE_INSERT
 DELIMITER //
@@ -144,6 +195,19 @@ IF NEW.fecha_adquisicion > CURDATE() THEN
     END IF;
 END
 DELIMITER ;
+
+--actualizar_nivel_cuenta_BEFORE_INSERT
+DELIMITER //
+CREATE TRIGGER actualizar_nivel_cuenta_BEFORE_INSERT
+AFTER INSERT ON Juegos_Bibliotecas
+FOR EACH ROW
+BEGIN
+    UPDATE Usuarios
+    SET nivel_cuenta = nivel_cuenta + 1
+    WHERE id_usuario = (SELECT id_usuario FROM Bibliotecas WHERE id_biblioteca = NEW.id_biblioteca);
+END //
+DELIMITER ;
+
 
 
 
