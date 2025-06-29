@@ -69,9 +69,9 @@ LIMIT 5;
 
 ## 🧑‍💻 Autor
 
-Juan Mamelo  
-🔗 [LinkedIn](https://www.linkedin.com/in/juanmamelo)  
-📧 juanmamelo@gmail.com
+Juan Manuel Melo  
+🔗 [LinkedIn](https://www.linkedin.com/in/juan-manuel-melo95/)  
+📧 juanmanuelmelo95@gmail.com
 
 ---
 
